@@ -31,5 +31,6 @@ Um print para se ter uma ideia de como ficou: <br>
   <li>Luana Cabezaolias Miguel (RM 99320)</li>
 </ul>
 ## Aviso de Copyright
+
 Essa simulação foi feita para <strong>estudos</strong>. Você pode utilizar a nível de base para estudos mas <strong>não autorizamos o uso para venda.</strong>
 

@@ -20,7 +20,7 @@ Foi feito para a entrega 1 (on-line via Teams) uma simulação utilizando o Tink
 
 O Código, posteriormente, foi salvo na IDE do próprio Arduino!
 
-Um print para se ter uma ideia de como ficou:
+Um print para se ter uma ideia de como ficou: <br>
 ![image](https://github.com/letyresina/CP2-EdgeComputing/assets/80417466/70dbe318-627c-4294-8b04-55726c94b363)
 
 ## Integrantes participantes
